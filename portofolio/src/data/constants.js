@@ -204,7 +204,7 @@ export const projects = [
     ],
     category: "Supply Chain",
     github: "Haven't put the code",
-    Dashboard: "https://public.tableau.com/app/profile/muhammad.narul/viz/SupplyChainDashboard_17117325519010/Dashboard1",
+    Dashboard: "https://public.tableau.com/views/SupplyChainDashboard_17117325519010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link",
   },
   {
     id: 5,
@@ -225,7 +225,7 @@ export const projects = [
     ],
     category: "Sales",
     github: "https://github.com/BARBARBoyyHD/PortofolioProject/blob/main/Retail.sql",
-    Dashboard: "https://public.tableau.com/app/profile/muhammad.narul/viz/Retail_17122328012180/Dashboard1",
+    Dashboard: "https://public.tableau.com/views/Retail_17122328012180/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link",
   }
   
   
